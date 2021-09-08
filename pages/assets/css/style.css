@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    width: 1300px;
+    background-color: #f1e4d3;
+    height: 900px;
+    
+}
+header{
+    width: 100%;
+    height: 500px;
+    border: 10px; inset: rgb(44, 22, 2);
+
+}
+div{
+    width: 100%;
+    height: 400px;
+}
+image{
+    width: 100%;
+    height: auto;
+}
+
+.header{
+    grid-area: header;
+    background-image: url();
+    border:2px solid rgb(219, 87, 11);
+}
+h1{
+    font-style: italic;
+    font-weight: 900;
+    font-size: 2vw;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    background-color: cornsilk;
+}
+h1{
+    color: #0aaa2d;
+}
+p{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 1vw;
+    color: brown;
+    font-family: 'Anton', sans-serif;
+font-family: 'Libre Franklin', sans-serif;
+
+
+}
+li{
+    color: #ff1100;
+    font-family: 'Anton', sans-serif;
+font-family: 'Libre Franklin', sans-serif;
+display: inline-block;
+width: 19%;
+height: 30px;
+}
+.colorDeParrafo{
+    color: #ffc400;
+}
+ul{
+    list-style: none;
+}
+a{
+    color: chocolate;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+main{
+    height: 600px;
+    border: 5px dotted rgb(86, 92, 4)
+}
+footer{
+    height: 900px;
+/*
+}
+#fotoUno{
+    width: 50px;
+    height: 40px;
+    display: inline-block;
+    position: absolute;
+    bottom: 10px;
+
+}
+/*
+
